@@ -39,3 +39,11 @@ Conclusion:
 This data wrangling process is essential for building a high quality and consistency of activity data where the customer analysis of the company will be based. It provides better understanding of the target marketing, satisfaction of customers, and better decision-making which will help the firm for enhancing the growth. 
 
 
+![Screenshot 2024-12-13 214904](https://github.com/user-attachments/assets/6e3a91cd-57b2-4441-999c-138a6a9ab864)
+
+![Screenshot 2024-12-13 214459](https://github.com/user-attachments/assets/ba809a29-48fb-4646-b7fa-028e4b3b0e9d)
+
+![Screenshot 2024-12-13 214516](https://github.com/user-attachments/assets/dc3dd15f-85ae-40b1-a254-8c1154600c5a)
+
+
+
