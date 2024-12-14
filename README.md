@@ -6,16 +6,24 @@ Organization collects customer data from numerous channels like sales transactio
 
 Dataset:
 Sales data- Transaction records which includes timestamps, product description, purchase amount, and customer ID.
+
 Customer information- The customer's demographic information, including age, gender, location and the date of account creation. 
+
 Customer service records- These are the logs of customers complaints, questions and answers from consumers.
+
 Marketing interaction details- Campaign and email response data, such as click through and open rates. 
 
 Methodology:
 Data collection- For data collection, it is important to ensure that the data is collected from various sources like CRM system, databases and third party marketing platforms. It is essential to ensure that customer-related dataset is recognized for building a comprehensive customer profile. 
+
 Data assessment- For finding a problems like duplication, missing values, and variation among datasets, will perform a rough assessment of the data qualtiy. Document data types and formats. 
+
 Data cleaning- Applying the proper technique for data cleaning. Handling the data properly by adding missing values in the dataset in accordance with their importance and context. Removing any duplicate records for dataset (especially in customer service logs or transaction date). Normalizing categorical variables like standardising the status of consumers for ensuring consistent terminology.
+
 Data transformation- For this step, it is vital to make sure that all the fields for dataset are appropriate for analysis and converting data types where it is necessary. Creating new features which includes frequency of purchases, and purchase amount. For the data to be aggregate, make sure that it fits to the planned analysis.
+
 Data consolidation- Creating a single consumer database for merging datasets. Also, creating an accurate understanding of each individual by combining marketing, sales, and support data.
+
 Documentation and Validation- Recording the overall process of data wrangling including transformation of dataset, cleaning techniques, and data sources. For the accuracy, completeness, and ready to use this data we should examine the final set of information of this dataset by using exploratory data analysis (EDA).
 
 Tools and Technologies:
